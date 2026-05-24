@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yedi_d_smp2.aternos.me",
+    "ip": "billfish.aternos.host",
     "port": 16490,
     "version": "",
     "try-creative": false
